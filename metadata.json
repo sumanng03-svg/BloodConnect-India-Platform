@@ -1,0 +1,10 @@
+{
+  "name": "BloodConnect India Platform",
+  "description": "Nationwide real-time emergency blood supply coordination, verified donor registry, cold-chain inventory management, and clinical hospital dispatch platform.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
